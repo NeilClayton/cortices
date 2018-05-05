@@ -88,4 +88,4 @@ Keep track of development and community news.
 * Listen to the [Roots Radio podcast](https://roots.io/podcast/)
 
 [roots-wp-salt]:https://roots.io/salts.html
-[wp-cli-dotenv]:https://github.com/aaemnnosttv/wp-cli-dotenv-command
+
